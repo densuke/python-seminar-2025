@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/lecture0[6-8].md": true,
+    "**/0[6-8]/": true,
+  }
+}
