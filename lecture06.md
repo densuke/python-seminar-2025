@@ -66,6 +66,14 @@ def test_add_positive_numbers():
 
 `pytest`を実行すると、これらの`test_`で始まる関数が自動的に発見・実行されます。
 
+pytestを入れた記憶の無い方は追加しておきましょう。
+
+```powershell
+uv add --dev pytest
+```
+
+で、実行します
+
 ```powershell
 uv run pytest 06/test_calc.py
 ```
