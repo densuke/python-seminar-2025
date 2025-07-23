@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"markdown.marp.html": "all",
+		"markdown.marp.themes": [
+			"./style.css"
+		]
+	}
+}

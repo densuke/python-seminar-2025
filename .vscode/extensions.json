@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "marp-team.marp-vscode",
+        "ms-python.python",
+        "charliermarsh.ruff",
+        "bierner.markdown-mermaid",
+        "ms-python.vscode-pylance"
+    ]
+}
