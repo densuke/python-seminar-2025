@@ -1,0 +1,11 @@
+[project]
+name = "python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bottle>=0.13.4",
+    "pip>=25.1.1",
+]
+
