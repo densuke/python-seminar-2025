@@ -2,5 +2,12 @@
   "files.exclude": {
     "**/lecture0[6-8].md": true,
     "**/0[6-8]/": true,
-  }
+  },
+  "python-envs.pythonProjects": [
+    {
+      "path": "",
+      "envManager": "ms-python.python:venv",
+      "packageManager": "ms-python.python:pip"
+    }
+  ]
 }
