@@ -11,3 +11,9 @@ def get_user_info(user_id: int) -> Optional[Dict[str, str]]:
         return {"name": "Alice", "email": "alice@example.com"}
     else:
         return None # ユーザーが見つからない場合はNoneを返す
+    
+list_names = ["Alice", "Bob", "Charlie"]
+process_names(list_names)
+list_names = ["Alice", "Bob", "Charlie", 1]
+process_names(list_names)
+

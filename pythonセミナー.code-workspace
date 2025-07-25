@@ -8,6 +8,7 @@
 		"markdown.marp.html": "all",
 		"markdown.marp.themes": [
 			"./css/style.css"
-		]
+		],
+		"python.analysis.typeCheckingMode": "strict"
 	}
 }
